@@ -5,6 +5,10 @@ There were tree versions of this presentation:
 * IT Department and Interns. Goal: explain classical Machine Learning algorithms and the process of completing the project in simple terms. 
 * Executives. Goal: show the results of the project, identify opportunities, outcomes, and next steps. 
 
+<div class="alert alert-success">
+Blah blah blah
+</div>
+
 <div class="alert alert-info" role="alert">
 Majority of slides are presented here with exception of those that were describing my education and profiessional background, information displaying the schema of the datalake, customer's PII information. 
 </div>
