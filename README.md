@@ -8,7 +8,7 @@ There were tree versions of this presentation:
 <div class="alert alert-success">
 Blah blah blah
 </div>
-
+> :warning: **If you are using mobile browser**: Be very careful here!
 <div class="alert alert-info" role="alert">
 Majority of slides are presented here with exception of those that were describing my education and profiessional background, information displaying the schema of the datalake, customer's PII information. 
 </div>
