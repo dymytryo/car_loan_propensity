@@ -1,9 +1,13 @@
-# car_loan_propensity
+# Propensity to Get a Car Loan Project
 
 There were tree versions of this presentation:
 * Leadership of IT Department. Goal: show the work, explain the findings, identify feasibility. 
-* IT department and interns. Goal: explain classical Machine Learning algorithms and the process of completing the project in simple terms. 
+* IT Department and Interns. Goal: explain classical Machine Learning algorithms and the process of completing the project in simple terms. 
 * Executives. Goal: show the results of the project, identify opportunities, outcomes, and next steps. 
+
+<div class="alert alert-info" role="alert">
+Majority of slides are presented here with exception of those that were describing my education and profiessional background, information displaying the schema of the datalake, customer's PII information. 
+</div>
 
 Title Slide: 
 After this I included a couple of slides describing my educational and work experience background. 
