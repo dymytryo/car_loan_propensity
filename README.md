@@ -5,15 +5,8 @@ There were tree versions of this presentation:
 * IT Department and Interns. Goal: explain classical Machine Learning algorithms and the process of completing the project in simple terms. 
 * Executives. Goal: show the results of the project, identify opportunities, outcomes, and next steps. 
 
-<div class="alert alert-success">
-Blah blah blah
-</div>
-> :warning: **If you are using mobile browser**: Be very careful here!
-<div class="alert alert-info" role="alert">
-Majority of slides are presented here with exception of those that were describing my education and profiessional background, information displaying the schema of the datalake, customer's PII information. 
-</div>
+> :warning: Majority of slides are presented here with exception of those that were describing my education and profiessional background, information displaying the schema of the datalake, customer's PII information. 
 
-Title Slide: 
 After this I included a couple of slides describing my educational and work experience background. 
 ![alt text](https://github.com/dymytryo/car_loan_propensity/blob/8d4be7850731255ba835031ddafbea798a014100/loan_propensity_slides/Slide01.png?raw=true)
 ![alt text](https://github.com/dymytryo/car_loan_propensity/blob/8d4be7850731255ba835031ddafbea798a014100/loan_propensity_slides/Slide02.png?raw=true)
